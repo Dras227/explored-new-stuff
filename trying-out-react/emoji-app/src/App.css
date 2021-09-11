@@ -1,12 +1,18 @@
 .App {
   text-align: center;
 }
-
+input{
+  width:400px;
+  height: 40px;
+  border: 2px solid wheat;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+ul {
+  list-style: none;;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -36,3 +42,5 @@
     transform: rotate(360deg);
   }
 }
+
+
