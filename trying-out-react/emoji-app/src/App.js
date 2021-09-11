@@ -3,6 +3,7 @@ import './App.css';
 import { useState } from "react";
 
 const emojiObject = {
+  "yt recs":["hi man","hello"],
     "😂": "Face with Tears of Joy",
     "😭": "Loudly Crying Face",
     "🥺": "Pleading Face",
